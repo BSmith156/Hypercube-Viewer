@@ -10,7 +10,7 @@ git clone https://github.com/BSmith156/Hypercube-Viewer.git
 
 ## Usage
 
-To run it from inside the project directory
+To run it as a script
 ```sh
 python hypercube_viewer.py
 ```
