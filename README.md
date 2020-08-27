@@ -1,4 +1,4 @@
-[MIT License][https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square]
+(https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square)
 
 # Hypercube Viewer
 
