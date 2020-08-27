@@ -10,13 +10,8 @@ git clone https://github.com/BSmith156/Hypercube-Viewer.git
 
 ## Usage
 
-To run it as a script
 ```sh
 python hypercube_viewer.py
-```
-Or to run it as a module
-```sh
-python -m hypercube_viewer
 ```
 
 ## License
