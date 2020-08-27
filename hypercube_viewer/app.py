@@ -7,8 +7,13 @@ from hypercube_viewer.controls.rotation_controls import RotationControls
 def run():
     window = tk.Tk()
     window.title("Hypercube Viewer")
-    icon = tk.PhotoImage(file = "hypercube_viewer\\resources\\icons\\hypercube_viewer_icon.png")
-    window.iconphoto(False, icon)
+
+    # Try is a 'fix' for no file found error while I look for a proper fix
+    try:
+        icon = tk.PhotoImage(file = "hypercube_viewer\\resources\\icons\\hypercube_viewer_icon.png")
+        window.iconphoto(False, icon)
+    except:
+        pass
 
     # Window geometry
     width = round(window.winfo_screenwidth() / 1.25)
