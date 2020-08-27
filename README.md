@@ -1,5 +1,3 @@
-(https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square)
-
 # Hypercube Viewer
 
 A python tool to view n-dimensional hypercubes and rotate them in n-dimensional space.
