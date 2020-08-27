@@ -1,6 +1,6 @@
 # Hypercube Viewer
 
-A python tool to view n-dimensional hypercubes and rotate them in n-dimensional space.
+A Python tool to view n-dimensional hypercubes and rotate them in n-dimensional space.
 
 ## Installation
 
