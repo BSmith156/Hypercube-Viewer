@@ -1,6 +1,6 @@
 # Hypercube Viewer
 
-A Python tool to view n-dimensional hypercubes and rotate them in n-dimensional space.
+A Python application to view n-dimensional hypercubes and rotate them in n-dimensional space.
 
 ## Installation
 
@@ -19,4 +19,5 @@ python hypercube_viewer.py
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Authors
+
 Ben Smith - [BSCode.xyz](http://www.bscode.xyz)
