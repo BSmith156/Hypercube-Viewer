@@ -2,7 +2,7 @@
 
 A Python application to view n-dimensional hypercubes and rotate them in n-dimensional space.
 
-![A gif of a 4D hypercube rotating in the application](https://i.imgur.com/EHqt5zL.gif)
+<img src="https://i.imgur.com/EHqt5zL.gif" alt="A gif of a 4D hypercube rotating in the application" width="600" height="338"/>
 
 ## Installation
 
